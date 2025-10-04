@@ -19,7 +19,6 @@
     <memberTool name="LocalizeExternal"/>
     <memberTool name="FindNotLocal"/>
     <memberTool name="connect to output"/>
-    <memberTool name="tool_2"/>
   </toolshelf>
 
   <tool name="Paste Ease" label="Paste Ease" icon="PLASMA_App">
